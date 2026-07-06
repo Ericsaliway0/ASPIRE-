@@ -2,7 +2,7 @@
 
 This repository contains the code for our research, "ASPIRE: an interpretable graph neural network framework for biological representation learning".
 
-![Alt text](images/ramework_aspire.png)
+![Alt text](images/framework_aspire.png)
 
 
 ## Data Source
