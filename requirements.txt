@@ -1,0 +1,33 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Note: torch, torchvision, torchaudio, and dgl are installed via conda
+# (see README setup steps) rather than pip, so conda can resolve the
+# correct CUDA-enabled builds for your system.
+
+# Graph / knowledge graph utilities
+py2neo
+networkx
+
+# TCGA / GDC / gene annotation data pipeline
+requests
+tqdm
+
+# Dimensionality reduction & embeddings
+umap-learn
+
+# Functional enrichment analysis
+gseapy
+gprofiler-official
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Progress bars in notebooks
+ipywidgets
+jupyter
