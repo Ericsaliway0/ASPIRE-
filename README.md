@@ -69,7 +69,7 @@ Outputs of this pipeline (gene x cancer feature matrices per omics modality) are
 6. Download and place data in the respective directories:
    - [Download data_aspire.zip](https://drive.google.com/file/d/1JzH2cWMD04B4WR9sbwMtOiDQiGNL0E2r/view?usp=sharing)
 
-7. (Optional) Rebuild the TCGA multi-omics gene feature matrices from raw GDC/GENCODE sources by running the `process/tcga_multi_omics_feature_matrix.ipynb`. Pre-built feature matrices are already provided in `data/tcga_omics/` if you'd rather skip this step.
+7. Rebuild the TCGA multi-omics gene feature matrices from raw GDC/GENCODE sources by running the `process/tcga_multi_omics_feature_matrix.ipynb`(Pre-built feature matrices are also provided in `data/tcga_omics/`).
 
 8. To train the model, run the following command:
    - `python prediction/main.py --num-layers 6 --lr 0.001 --input-size 2 --hidden-size 16 --epochs 100`
