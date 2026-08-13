@@ -66,8 +66,8 @@ Outputs of this pipeline (gene x cancer feature matrices per omics modality) are
 5. Install DGL:
    - `conda install -c dglteam dgl`
 
-6. Download the data from the built knowledge graph using the link below and place it in the `data` directory before training:
-   - [Download KG](https://drive.google.com/file/d/1RvGw3T_gWvTIRekYuFofy4bjgc0bS53N/view?usp=drive_link)
+6. Download and place data in the respective directories:
+   - [Download data_aspire.zip](https://drive.google.com/file/d/1JzH2cWMD04B4WR9sbwMtOiDQiGNL0E2r/view?usp=sharing)
 
 7. (Optional) Rebuild the TCGA multi-omics gene feature matrices from raw GDC/GENCODE sources by running the `process/tcga_multi_omics_feature_matrix.ipynb`. Pre-built feature matrices are already provided in `data/tcga_omics/` if you'd rather skip this step.
 
