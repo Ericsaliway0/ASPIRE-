@@ -1,6 +1,6 @@
-## ASPIRE: an interpretable graph neural network framework for biological representation learning
+## Interpretable Graph Representation Learning for Multi-Omics Biological Networks
 
-This repository contains the code for our research, "ASPIRE: an interpretable graph neural network framework for biological representation learning".
+This repository contains the code for our research, "Interpretable Graph Representation Learning for Multi-Omics Biological Networks".
 
 ![Alt text](images/framework_aspire.png)
 
