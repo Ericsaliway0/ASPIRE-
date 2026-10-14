@@ -1,6 +1,6 @@
-## Interpretable Graph Representation Learning for Multi-Omics Biological Networks
+## Explainable Graph Neural Network for Biological Representation Learning and Analysis
 
-This repository contains the code for our research, "Interpretable Graph Representation Learning for Multi-Omics Biological Networks".
+This repository contains the code for our research, "Explainable Graph Neural Network for Biological Representation Learning and Analysis".
 
 ![Alt text](images/framework_aspire.png)
 
